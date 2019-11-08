@@ -11,5 +11,5 @@ The conference proceedings can be downloaded from: http://lml.bas.bg/ranlp2019/p
 Pilar López-Úbeda, Flor Miriam Plaza-del-Arco, Manuel Carlos Díaz-Galiano, L. Alfonso Ureña-López, María-Teresa Martín-Valdivia
 
 Department of Computer Science, Advanced Studies Center in ICT (CEATIC)
-Universidad de Jaen, Campus Las Lagunillas, 23071, Ja ´ en, Spain ´
+Universidad de Jaén, Campus Las Lagunillas, 23071, Jaén, Spain
 {plubeda, fmplaza, mcdiaz, laurena, maite}@ujaen.es
