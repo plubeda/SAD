@@ -14,6 +14,9 @@ Department of Computer Science, Advanced Studies Center in ICT (CEATIC)
 Universidad de Jaén, Campus Las Lagunillas, 23071, Jaén, Spain
 {plubeda, fmplaza, mcdiaz, laurena, maite}@ujaen.es
 
+# Download
+
+Please contact: plubeda@ujaen.es and fmplaza@ujaen.es
 
 # Citing
 
